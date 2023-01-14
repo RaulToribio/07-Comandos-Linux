@@ -1,4 +1,4 @@
-# Comandos Linux
+# 07 Comandos Linux
 
 - `Ctrl + Alt`     Abrir terminal.
 - `pwd`     Obtener la ruta del directorio actual.
