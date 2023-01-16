@@ -42,3 +42,11 @@
 - `sudo`     Super User Do.
 - `sudo mkdir`     Crea directorios con permiso de administrador.
 - `sudo apt-get`     Instalar algún programa e indicar a la máquina que se trabaja en modo administrador.
+
+# Créditos
+
+> [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
+> 
+
+> [Codigo IoT](https://github.com/codigo-iot)
+>
